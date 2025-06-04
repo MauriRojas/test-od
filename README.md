@@ -30,7 +30,7 @@ This guide describes how to use DigitalOcean App Platform to deploy a complete S
 
 Click the following button to deploy the app to App Platform. If you are not currently logged in with your DigitalOcean account, this button prompts you to log in.
 
-[![Deploy to DigitalOcean](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/do-yard/do-starter-kit/tree/main)
+[![Deploy to DigitalOcean](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/MauriRojas/test-od/tree/main)
 
 To enable automatic redeployment or to modify the code, we recommend you fork this repository:
 
